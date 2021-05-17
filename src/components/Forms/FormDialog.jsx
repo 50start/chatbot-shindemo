@@ -47,7 +47,7 @@ submitForm = () => {
          'お問い合わせ内容:\n'　+  description
   }
 
-  const url = 'https://hooks.slack.com/services/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'
+  const url = ''
 
   
   fetch(url, {
